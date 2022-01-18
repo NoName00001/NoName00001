@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <br/>
-
+<br/>
+<br/>
 Привет, меня зовут Искандер, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
 <br/>
